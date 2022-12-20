@@ -1,0 +1,12 @@
+{
+    "fire": "https://mhworld.kiranico.com/storage/mhw/icon/element_1.png",
+    "water":"https://mhworld.kiranico.com/storage/mhw/icon/element_2.png",
+    "ice":"https://mhworld.kiranico.com/storage/mhw/icon/element_3.png",
+    "thunder":"https://mhworld.kiranico.com/storage/mhw/icon/element_4.png",
+    "dragon":"https://mhworld.kiranico.com/storage/mhw/icon/element_5.png",
+    "poison": "https://mhworld.kiranico.com/storage/mhw/icon/element_6.png",
+    "paralysis": "https://mhworld.kiranico.com/storage/mhw/icon/element_7.png",
+    "sleep": "https://mhworld.kiranico.com/storage/mhw/icon/element_8.png",
+    "blast": "https://mhworld.kiranico.com/storage/mhw/icon/element_9.png",
+    "stun": "https://mhworld.kiranico.com/storage/mhw/icon/element_10.png"
+}
